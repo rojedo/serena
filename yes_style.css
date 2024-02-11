@@ -3,7 +3,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 90vh; 
-    background-image: url(https://cdn.cloudflare.steamstatic.com/steam/apps/413150/ss_b887651a93b0525739049eb4194f633de2df75be.600x338.jpg?t=1666917466);
+    background-image: url('https://techcrunch.com/wp-content/uploads/2023/01/stardew.png?w=1390&crop=1');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
